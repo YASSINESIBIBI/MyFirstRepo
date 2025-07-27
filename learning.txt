@@ -1,1 +1,1 @@
-One thing I’ve learned in this course is how to use Git branches and pull requests to collaborate with others. It makes teamwork efficient and helps track changes easily.
+One of the most important things I’ve learned so far in this course is how Git helps manage changes in a project. Before this, I didn’t understand how teams could work on code together. Now, I understand how to create branches, make commits, and contribute through pull requests. This has made me feel more confident as a future developer.
