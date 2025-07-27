@@ -1,0 +1,11 @@
+goals.txt
+My Personal and Academic Goals for Next Year
+
+- Learn Git and GitHub thoroughly
+- Improve my coding and problem-solving skills
+- Complete the SE 102 course successfully
+- Build and contribute to real-world open-source projects
+- Practice consistent daily study and discipline
+- Apply for internships or tech training programs
+- Stay focused on my long-term goal of becoming a software engineer
+ 
